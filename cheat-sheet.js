@@ -264,7 +264,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 event_label: 'Copy To Clipboard : ' + textToCopy,
                 value: textToCopy
             });
-            copyToClipboard(textToCopy);
+            copyToClipboard(textToCopy, target);
         }
     });
 
@@ -276,7 +276,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // IE: The clipboard feature may be disabled by an administrator. By
     // default a prompt is shown the first time the clipboard is
     // used (per session).
-    function copyToClipboard(text) {
+    function copyToClipboard(text, widget) {
         if (window.clipboardData && window.clipboardData.setData) {
             // IE specific code path to prevent textarea being shown while dialog is visible.
             return clipboardData.setData('Text', text);
@@ -287,7 +287,17 @@ document.addEventListener('DOMContentLoaded', function () {
             document.body.appendChild(textarea);
             textarea.select();
             try {
-                return document.execCommand('copy'); // Security exception may be thrown by some browsers.
+                const done = document.execCommand('copy'); // Security exception may be thrown by some browsers.
+                if (done) {
+                    const originaltext = widget.innerText;
+                    widget.innerText = 'ok';
+                    setTimeout(() => {
+                            widget.innerText = originaltext;
+                        }, 1000);
+                } else {
+                    console.warn('Copy to clipboard not allowed.');
+                }
+                return done;
             } catch (ex) {
                 console.warn('Copy to clipboard failed.', ex);
                 return false;
