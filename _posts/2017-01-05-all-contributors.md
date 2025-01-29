@@ -283,6 +283,9 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 <span style="display: inline-block; width: 130px;"><a href="https://github.com/saumyajyoti"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/27477973?v=4?s=100" width="100px;" alt="Saumyajyoti Mukherjee"/><br /><sub><b>Saumyajyoti Mukherjee</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3Asaumyajyoti" title="Bug reports">🐛</a></span>
 
 
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/pablogrs"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/8503019?v=4?s=100" width="100px;" alt="Pablo Sanchez"/><br /><sub><b>Pablo Sanchez</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=pablogrs" title="Documentation">📖</a></span>
+
+
 
 
 <!-- markdownlint-restore -->
