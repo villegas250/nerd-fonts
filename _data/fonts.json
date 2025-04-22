@@ -31,6 +31,21 @@
       "description": "Derived from the x3270 font, a modern format of a font with high nostalgic value"
     },
     {
+      "unpatchedName": "Adwaita Mono",
+      "licenseId": "OFL-1.1-no-RFN",
+      "RFN": false,
+      "version": "32.4",
+      "patchedName": "AdwaitaMono",
+      "folderName": "AdwaitaMono",
+      "imagePreviewFont": "AdwaitaMono Nerd Font",
+      "imagePreviewFontSource": "AdwaitaMono/AdwaitaMono-Regular.ttf",
+      "linkPreviewFont": "adwaita-mono",
+      "caskName": "adwaita-mono",
+      "repoRelease": false,
+      "isMonospaced": true,
+      "description": "The monospace typeface for GNOME"
+    },
+    {
       "unpatchedName": "Agave",
       "licenseId": "MIT",
       "RFN": false,
@@ -271,21 +286,6 @@
       "description": "A monospaced font for programmers and other terminal groupies"
     },
     {
-      "unpatchedName": "Departure Mono",
-      "licenseId": "OFL-1.1-no-RFN",
-      "RFN": false,
-      "version": "1.422",
-      "patchedName": "DepartureMono",
-      "folderName": "DepartureMono",
-      "imagePreviewFont": "DepartureMono Nerd Font",
-      "imagePreviewFontSource": "DepartureMono/DepartureMono-Regular.otf",
-      "linkPreviewFont": "departure-mono",
-      "caskName": "departure-mono",
-      "repoRelease": false,
-      "isMonospaced": true,
-      "description": "A monospaced pixel font with a lo-fi, techy vibe"
-    },
-    {
       "unpatchedName": "DejaVu Sans Mono",
       "licenseId": "Bitstream-Vera",
       "RFN": false,
@@ -299,6 +299,21 @@
       "repoRelease": true,
       "isMonospaced": true,
       "description": "Dotted zero, based on the Bitstream Vera Fonts with a wider range of character"
+    },
+    {
+      "unpatchedName": "Departure Mono",
+      "licenseId": "OFL-1.1-no-RFN",
+      "RFN": false,
+      "version": "1.422",
+      "patchedName": "DepartureMono",
+      "folderName": "DepartureMono",
+      "imagePreviewFont": "DepartureMono Nerd Font",
+      "imagePreviewFontSource": "DepartureMono/DepartureMono-Regular.otf",
+      "linkPreviewFont": "departure-mono",
+      "caskName": "departure-mono",
+      "repoRelease": false,
+      "isMonospaced": true,
+      "description": "A monospaced pixel font with a lo-fi, techy vibe"
     },
     {
       "unpatchedName": "Droid Sans Mono",
