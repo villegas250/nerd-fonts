@@ -463,6 +463,7 @@ const glyphs = {
   "nf-custom-common_lisp": "e6b0",
   "nf-custom-cpp": "e61d",
   "nf-custom-crystal": "e62f",
+  "nf-custom-css": "e6b8",
   "nf-custom-default": "e612",
   "nf-custom-electron": "e62e",
   "nf-custom-elixir": "e62d",
@@ -1003,6 +1004,18 @@ const glyphs = {
   "nf-dev-yunohost": "e8ee",
   "nf-dev-zend": "e778",
   "nf-dev-zig": "e8ef",
+  "nf-extra-progress_empty_left": "ee00",
+  "nf-extra-progress_empty_mid": "ee01",
+  "nf-extra-progress_empty_right": "ee02",
+  "nf-extra-progress_full_left": "ee03",
+  "nf-extra-progress_full_mid": "ee04",
+  "nf-extra-progress_full_right": "ee05",
+  "nf-extra-progress_spinner_1": "ee06",
+  "nf-extra-progress_spinner_2": "ee07",
+  "nf-extra-progress_spinner_3": "ee08",
+  "nf-extra-progress_spinner_4": "ee09",
+  "nf-extra-progress_spinner_5": "ee0a",
+  "nf-extra-progress_spinner_6": "ee0b",
   "nf-fa-500px": "f26e",
   "nf-fa-accessible_icon": "f29b",
   "nf-fa-accusoft": "f0b7",
@@ -12890,10 +12903,9 @@ const glyphs = {
 </script>
 
 <h3>Removed Icons</h3>
-<h5 align="center">With Release <code>v3.0.0</code> the Material Design Icons were updated and moved to a new codepoint range (reasons for that are in the <a href="releases#v3.0.0">release notes</a>).</h5>
+<h5 align="center">With Release <code>v3.0.0</code> the Material Design Icons were updated and moved to new codepoints (reasons for that are in the release notes).</h5>
 <h5 align="center">They are still shown here for reference, but are missing in the actual fonts.</h5>
 <h5 align="center">To find for example the replacement for <code>nf-mdi-altimeter</code> enter just <code>altimeter</code> in the search box.</h5>
-<h5 align="center">Some icons have been dropped without replacement.</h5>
 <br>
 
 <h3>Example Usages</h3>
