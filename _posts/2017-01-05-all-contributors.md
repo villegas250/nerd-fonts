@@ -288,6 +288,7 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 <span style="display: inline-block; width: 130px;"><a href="https://github.com/duytrung"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/2046672?v=4?s=100" width="100px;" alt="Trung Nguyen"/><br /><sub><b>Trung Nguyen</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3Aduytrung" title="Bug reports">🐛</a></span>
 <span style="display: inline-block; width: 130px;"><a href="https://github.com/badlydrawnface"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/53501005?v=4?s=100" width="100px;" alt="David Marrero"/><br /><sub><b>David Marrero</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=badlydrawnface" title="Code">💻</a></span>
 <span style="display: inline-block; width: 130px;"><a href="http://sliva0.mk"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/48382801?v=4?s=100" width="100px;" alt="sliva0"/><br /><sub><b>sliva0</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=sliva0" title="Documentation">📖</a></span>
+<span style="display: inline-block; width: 130px;"><a href="http://www.austingause.com"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/43703308?v=4?s=100" width="100px;" alt="Austin Gause"/><br /><sub><b>Austin Gause</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3APairadux" title="Bug reports">🐛</a></span>
 
 
 
