@@ -28,6 +28,7 @@ document.addEventListener('DOMContentLoaded', function () {
     let miniSearch = new MiniSearch({
         fields: ['id', 'code', 'name'], // fields to index for full-text search
         storeFields: ['id', 'code', 'isRemoved'], // fields to return with search results
+        tokenize: (string) => string.split(/[ _]/),
     })
     miniSearch.addAll(Object.entries(glyphs).map(
         ([key, value]) => {
