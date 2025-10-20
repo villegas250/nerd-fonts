@@ -156,8 +156,7 @@ document.addEventListener('DOMContentLoaded', function () {
             emptyResultsMessage = "Enter (part) of a word to search for or paste the icon or enter space / blank (' ') to show all icons"
         } else {
             if (searchTerm === " ") {
-                prefixSearchEnabled = false;
-                searchTerm = "nf";
+                searchTerm = "nf-";
             }
         }
 
