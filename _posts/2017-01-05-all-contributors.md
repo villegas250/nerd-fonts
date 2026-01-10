@@ -301,6 +301,9 @@ This project follows the [all-contributors](https://github.com/kentcdodds/all-co
 <span style="display: inline-block; width: 130px;"><a href="http://hermanmalik.com"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/56662591?v=4?s=100" width="100px;" alt="Herman Malik"/><br /><sub><b>Herman Malik</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/issues?q=author%3Ahermanmalik" title="Bug reports">🐛</a></span>
 
 
+<span style="display: inline-block; width: 130px;"><a href="https://github.com/GoldPigg"><img class="lzy_img" data-src="https://avatars.githubusercontent.com/u/110080943?v=4?s=100" width="100px;" alt="Goldpigg"/><br /><sub><b>Goldpigg</b></sub></a><br /><a href="https://github.com/ryanoasis/nerd-fonts/commits?author=GoldPigg" title="Code">💻</a></span>
+
+
 
 
 <!-- markdownlint-restore -->
